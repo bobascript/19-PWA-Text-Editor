@@ -40,7 +40,7 @@ THEN I should have proper build scripts for a webpack application
 
 ## Usage
 
-To use this app you simply need to clone the repository locally. Then you'll have to run `npm install` and `npm run start` and you can get straight to notetaking!
+To use this app you simply need to clone the repository locally. Then you'll have to run `npm install` and `npm run start` and you can get straight to notetaking! Once it's started up, simply visit localhost:(your PORT here, default is 3000) and the page will load up!
 
 ## Screenshot
 
