@@ -44,7 +44,7 @@ To use this app you simply need to clone the repository locally. Then you'll hav
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](./JATEscreenshot.png)
 
 ## Deployed Page
 The page has been deployed to heroku! You can visit it [here]()
